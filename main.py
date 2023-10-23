@@ -136,7 +136,7 @@ async def coroutine_for_getting_and_writing_description(species: dict):
     latin_name = (species['genus'] or "") + " " + (species['species'] or "")
 
     common_name = species['common_name']
-    if not bool(common_name):
+    if not common_name:
         common_name = latin_name
 
     species_id = species['species_id']
