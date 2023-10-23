@@ -1,10 +1,10 @@
-🦊 GPT-3 Wildlife Descriptions 🌍
+ # 🦊 GPT-3 Wildlife Descriptions 🌍
 Generate captivating descriptions for animals using OpenAI GPT and Wikipedia.
 
 🔗 For an in-depth walk-through, check out this [Medium article](https://medium.com/@tigistznabei/how-i-used-openais-gpt-api-to-generate-compelling-descriptions-from-the-eyes-of-animals-de9126b85169).
 While this codebase offers a practical implementation, be informed that it has been updated since I wrote the medium article. You can read the medium article for more info on the decision-making process and nuances of using the GPT API.
 
-📜 Table of Contents
+### 📜 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Setup & Usage](#setup--usage)
