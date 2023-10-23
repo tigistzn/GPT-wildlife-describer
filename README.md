@@ -17,6 +17,7 @@ Generate captivating descriptions for animals using OpenAI GPT and Wikipedia.
 This project offers a streamlined method to generate compelling and human-like descriptions for various animal species. Utilizing OpenAI's GPT-3 and the reliable information from Wikipedia, this code produces descriptions that are not only factually accurate but also interesting to read.
 
 Example description generated for a Red Fox:
+
 ![Red Fox description](image.png)
 
 ### Features
