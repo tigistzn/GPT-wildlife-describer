@@ -10,9 +10,6 @@ While this codebase offers a practical implementation, be informed that it has b
 - [Setup & Usage](#setup--usage)
 - [Structure of species.json](#structure-of-speciesjson)
 - [Costs and API Key](#costs-and-api-key)
-- [Updates & Changes](#updates--changes)
-- [Contributing](#contributing)
-- [License](#license)
 
 ### Overview
 This project offers a streamlined method to generate compelling and human-like descriptions for various animal species. Utilizing OpenAI's GPT-3 and the reliable information from Wikipedia, this code produces descriptions that are not only factually accurate but also interesting to read.
