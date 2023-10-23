@@ -1,0 +1,4 @@
+aiohttp==3.8.6
+asyncio==3.4.3
+openai==0.28.1
+python-dotenv==1.0.0

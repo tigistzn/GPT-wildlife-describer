@@ -1,0 +1,72 @@
+[
+    {
+        "species_id": 1,
+        "genus": "Panthera",
+        "species": "leo",
+        "common_name": "Lion",
+        "description": "I am the majestic lion, a powerful and regal creature of Africa and India. With my muscular body, broad chest, and rounded head adorned with a magnificent mane, I exude strength and dominance. As a social species, I belong to a pride consisting of adult males, related females, and adorable cubs. Together with my fellow lionesses, we hunt large ungulates in the grasslands and savannahs that we call home.\n\nAlthough I am an apex predator, I do not actively seek out humans as prey. However, when threatened or persecuted by them, I adapt to being active at night or twilight hours for survival. Sadly though, our once widespread population has been reduced to fragmented groups in sub-Saharan Africa and western India due to habitat loss and conflicts with humans.\n\nThroughout history and across cultures worldwide, the lion has been revered as a symbol of courage and royalty. From ancient sculptures to national flags; from zoological gardens since the Roman Empire to contemporary films; our presence is deeply ingrained in human culture.\n\nWith my short tail ending in a tufted tip concealing an intriguing spine-like structure called \"spur,\" I possess unique features that distinguish me from other wild cats like tigers. My fur ranges from light buff"
+    },
+    {
+        "species_id": 2,
+        "genus": "Panthera",
+        "species": "tigris",
+        "common_name": "Tiger",
+        "description": "As a majestic tiger, I roam the vast landscapes of my territory with pride. With my muscular body and strong forelimbs, I am the largest living cat species on Earth. My striking appearance is defined by dark vertical stripes that adorn my vibrant orange fur, contrasting against a white underside. These unique patterns are like fingerprints, making each tiger truly one-of-a-kind.\n\nBeing an apex predator, I rely on my hunting skills to survive. Ungulates such as deer and wild boar are my primary prey. Solitary yet social in nature, I require large contiguous areas of habitat to fulfill both my need for prey and to raise my offspring.\n\nTiger cubs stay under their mother's care for about two years before venturing out into the world independently. They establish their own territories outside of their mother's range. Sadly, our once extensive range has been greatly diminished over time due to human activities.\n\nI am listed as Endangered on the IUCN Red List due to habitat destruction, fragmentation, poaching, and conflicts with humans encroaching upon our territories. The global wild tiger population has dwindled significantly; estimates suggest there are only around 5,574 individuals left in fragmented pockets across various regions.\n\nDespite these challenges we face today"
+    },
+    {
+        "species_id": 3,
+        "genus": "Canis",
+        "species": "lupus",
+        "common_name": "Wolf",
+        "description": "I am a wolf, known as the gray wolf or grey wolf. I belong to the largest extant member of the Canidae family and can be found in Eurasia and North America. My fur is usually mottled white, brown, gray, and black, although some subspecies in the arctic region are nearly all white. I am well-adapted for cooperative game hunting with my pack, as demonstrated by my physical adaptations and advanced expressive behavior like howling. I live in nuclear families consisting of a mated pair accompanied by our offspring. We are territorial creatures and fights over territory often lead to mortality among us wolves. As a carnivore, I mainly feed on large wild hooved mammals but also consume smaller animals, livestock carrion, and even garbage when necessary. Although interactions with humans have been mixed throughout history due to attacks on livestock attributed to rabies-infected individuals among us wolves; overall we are relatively few in number compared to other species and tend to avoid human settlements out of fear developed from past encounters with hunters, farmers, ranchers, and shepherds.\n"
+    },
+    {
+        "species_id": 4,
+        "genus": "Felis",
+        "species": "catus",
+        "common_name": "Domestic Cat",
+        "description": "Meow! I am a domestic cat, the beloved companion of humans. My ancestors were wild cats, but we have been domesticated for thousands of years. We originated in the Near East around 7500 BC and have since spread all over the world.\n\nI lead a comfortable life as a house pet or farm cat, receiving love and care from my human family. However, some of my feline friends prefer to roam freely as feral cats, avoiding human contact.\n\nOne of our most valued traits is our ability to hunt and kill vermin like mice and rats. With retractable claws, a strong body, quick reflexes, sharp teeth, night vision, and keen sense of smell, we are skilled predators.\n\nAlthough we are solitary hunters by nature, we are social creatures that enjoy companionship with both humans and fellow cats. We communicate through various vocalizations like meowing and purring while also using body language.\n\nFemale cats can give birth to kittens throughout the year in equatorial regions or from spring to late autumn in temperate zones. Litter sizes typically range from two to five adorable little furballs.\n\nSome humans take great pride in breeding pedigreed cats for shows known as \"cat fancy.\" However, there is also an issue"
+    },
+    {
+        "species_id": 5,
+        "genus": "Ailuropoda",
+        "species": "melanoleuca",
+        "common_name": "Giant Panda",
+        "description": "Hello there! I am a giant panda, also known as Ailuropoda melanoleuca. You may call me a panda bear or simply panda for short. I have a unique and eye-catching appearance with my bold black-and-white coat and round body. Unlike other bears, I am primarily a folivore, meaning that more than 99% of my diet consists of bamboo shoots and leaves.\n\nI reside in the mountain ranges of central China, particularly in Sichuan, Shaanxi, and Gansu provinces. Unfortunately, due to human activities like farming and deforestation, my natural habitat has been greatly reduced over time. As a result, I am now considered a conservation-reliant vulnerable species.\n\nIn the wild, pandas occasionally diversify their diet by consuming other grasses, wild tubers, or even meat such as birds or rodents. However, when living in captivity like some of my fellow pandas do around the world (49 outside China), we receive additional food items like honey, eggs fish yams shrub leaves oranges or bananas.\n\nEstimating our population is quite challenging since we are elusive creatures. Some reports suggest that there are approximately 1,590 individuals living in the wild; however recent studies indicate"
+    },
+    {
+        "species_id": 6,
+        "genus": "Ornithorhynchus",
+        "species": "anatinus",
+        "common_name": "Platypus",
+        "description": "G'day mate! I'm a platypus, the unique and fascinating creature known for my duck-billed appearance. I call eastern Australia, including Tasmania, my home. As one of the few monotremes in existence, I lay eggs instead of giving birth to live young like other mammals.\n\nI have some pretty cool adaptations that make me stand out. My fur is dense and biofluorescent brown, which keeps me warm by trapping air close to my body. It's also waterproof and textured like a mole's fur. My tail stores fat reserves just like those cheeky Tasmanian devils.\n\nYou might be surprised to know that I have webbed front feet for swimming but prefer knuckle-walking on land to protect the webbing. My snout is elongated and covered in soft skin, forming a bill with nostrils on top while my eyes and ears are located behind it.\n\nBut here's something really interesting: male platypuses have venomous spurs on their hind feet! If you ever come across one of us fellas feeling threatened or territorial, watch out for our painful sting!\n\nWe've had quite an intriguing history with humans too. When European naturalists first laid eyes on us back in 179"
+    },
+    {
+        "species_id": 7,
+        "genus": "Gorilla",
+        "species": "gorilla",
+        "common_name": "Western Gorilla",
+        "description": "As a Western Gorilla, I am one of the largest living primates, reaching heights between 1.25 and 1.8 meters and weighing between 100 and 270 kilograms. My arm span can reach up to an impressive 2.6 meters! Living in the tropical forests of equatorial Africa, my species is divided into several subspecies.\n\nI live in troops led by a dominant male called a silverback. Our natural habitats cover a wide range of elevations, from dense forests and lowland swamps to mountainous regions like the Virunga Volcanoes. Unfortunately, our population is under threat due to poaching, habitat destruction, and disease.\n\nDespite these challenges, conservation efforts have been successful in some areas where we reside. However, as Critically Endangered species according to the IUCN classification (except for the mountain gorilla), our survival remains uncertain.\n\nWith DNA that is highly similar to humans (95-99%), we are considered one of their closest living relatives after chimpanzees and bonobos. Although we primarily consume plants as herbivores, our social interactions within troops are complex and fascinating.\n\nLiving for around 35-40 years in the wild, my life revolves around navigating through lush"
+    },
+    {
+        "species_id": 8,
+        "genus": "Equus",
+        "species": "ferus",
+        "common_name": "Wild Horse",
+        "description": "I am a wild horse, a member of the species Equus ferus. My ancestors have roamed the earth for centuries, living freely in vast grasslands and open plains. I am part of a lineage that includes both the modern domesticated horse and the endangered Przewalski's horse.\n\nIn the past, there were other subspecies of Equus ferus, such as the European wild horse known as the tarpan. Sadly, they went extinct in the late 19th or early 20th century. Some debate whether tarpans were truly wild or if they were feral horses or hybrids.\n\nPrzewalski's horse faced near extinction but was successfully reintroduced into the wild. The tarpan is believed to have existed during domestication but became extinct before our time.\n\nEfforts have been made to recreate tarpan-like horses using domestic breeds like Heck horses. However, these breeds still carry traits from their domesticated ancestors.\n\nWhen people refer to \"wild horses\" today, they often mean free-roaming herds of feral horses like mustangs in America or brumbies in Australia. These are not true \"wild\" horses but rather untamed members of Equus caballus - domesticated horses gone astr"
+    },
+    {
+        "species_id": 9,
+        "genus": "Bos",
+        "species": "taurus",
+        "common_name": "Domestic Cattle",
+        "description": "As a domestic cattle, my life revolves around providing various resources to humans. I am a member of the Bos taurus species and belong to the subfamily Bovinae. Mature females like me are called cows, while mature males are known as bulls. Young females are referred to as heifers, young males as bullocks, and castrated males as steers.\n\nHumans raise us for different purposes such as meat production (beef or veal), milk production (dairy cattle), and hides for leather-making. We also serve as riding animals and draft animals, pulling carts, plows, and other implements.\n\nOur dung is valuable too; it can be used for creating manure or fuel. In some regions like India, we hold significant religious significance. Some people even keep small breeds like Miniature Zebu as pets.\n\nDifferent types of cattle exist across the world based on geographic areas: Taurine cattle in Europe and temperate parts of Asia, Americas, and Australia; Zebus primarily in India and tropical areas of Asia/America/Australia; Sanga cattle mainly in sub-Saharan Africa.\n\nCattle have been domesticated since around 10,500 years ago from wild aurochs progenitors in central"
+    },
+    {
+        "species_id": 10,
+        "genus": "Orcinus",
+        "species": "orca",
+        "common_name": "Killer Whale",
+        "description": "As a killer whale, or orca, I am the largest member of the oceanic dolphin family. With my distinctive black-and-white patterned body, I can be found in all of the world's oceans, from Arctic and Antarctic regions to tropical seas. Being an apex predator, I have a diverse diet that includes fish, sharks, rays, seals, other dolphins, and even whales. My social nature is evident in highly stable matrilineal family groups called pods. We communicate through sophisticated hunting techniques and vocal behaviors passed down across generations as manifestations of our animal culture. Unfortunately, some populations are threatened due to prey depletion, habitat loss, pollution (by PCBs), capture for marine mammal parks and conflicts with human fisheries. While we are not usually a threat to humans in our natural habitat and no fatal attacks have been documented there; there have been cases of captive orcas causing harm to their handlers at marine theme parks. Orcas hold significant cultural importance in indigenous mythologies worldwide - ranging from being seen as souls of humans to merciless killers.\""
+    }
+]
