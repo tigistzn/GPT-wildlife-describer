@@ -34,29 +34,6 @@ Example description generated for a Red Fox:
 4. Store your OpenAI API key in a .env file.
 5. Run the main script: `python main.py`
 
-```python
-import asyncio
-import os
-import openai
-from dotenv import load_dotenv
-
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
-async def get_gpt_description(animal_name):
-    # ... Rest of the function ...
-
-async def main(animal_name_list):
-    tasks = []
-    for animal_name in animal_name_list:
-        tasks.append(get_gpt_description(animal_name))
-    await asyncio.gather(*tasks)
-
-if __name__ == "__main__":
-    animal_name_list = ['Lion', 'Tiger', 'Wolf']
-    asyncio.run(main(animal_name_list))
-```
-
 ### Structure of species.json
 The species.json file should follow this structure:
 
