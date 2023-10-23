@@ -1,7 +1,8 @@
 🦊 GPT-3 Wildlife Descriptions 🌍
 Generate captivating descriptions for animals using OpenAI GPT and Wikipedia.
 
-🔗 For an in-depth walk-through, check out the [Medium article](https://medium.com/@tigistznabei/how-i-used-openais-gpt-api-to-generate-compelling-descriptions-from-the-eyes-of-animals-de9126b85169).
+🔗 For an in-depth walk-through, check out this [Medium article](https://medium.com/@tigistznabei/how-i-used-openais-gpt-api-to-generate-compelling-descriptions-from-the-eyes-of-animals-de9126b85169).
+While this codebase offers a practical implementation, be informed that it has been updated since I wrote the medium article. You can read the medium article for more info on the decision-making process and nuances of using the GPT API.
 
 📜 Table of Contents
 - [Overview](#overview)
@@ -23,7 +24,7 @@ Example description generated for a Red Fox:
 ### Features
 - Intelligent Text Generation: Transform factual Wikipedia data into engaging content using GPT-3.
 - Asynchronous Processing: Concurrently generate descriptions for a multitude of animals.
-- Easy Setup: Initiate with a simple species.json file. If desired, upgrade to fetching from and writing to a database.
+- Easy Setup: Initiate with a simple species.json file. If desired, you can upgrade to fetching from and writing to a database.
 - Environment Management: Store your OpenAI API key securely in a .env file.
 
 ### Setup & Usage
@@ -83,7 +84,4 @@ The species.json file should follow this structure:
 ```
 
 ### Costs and API Key
-Remember that using the OpenAI GPT API isn't free. Depending on your usage, you may incur costs. Check the current pricing details on OpenAI's official website. This code assumes you have a valid OpenAI GPT API key. Store this key in a .env file as OPENAI_API_KEY.
-
-### Updates & Changes
-While this codebase offers a practical implementation, be informed that it has been updated since I wrote the medium article. The article remains a valuable resource for understanding the decision-making process and nuances of using the GPT API.
+Using the OpenAI GPT API isn't free. Check the current pricing details on OpenAI's official website. This code assumes you have a valid OpenAI GPT API key. Store this key in a .env file as OPENAI_API_KEY.
